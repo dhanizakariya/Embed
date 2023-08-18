@@ -6,6 +6,7 @@
 #define HARDWARE_TYPE MD_MAX72XX::FC16_HW
 #define MAX_DEVICES  4
 
+
 #define MAX_CLK_PIN   13  // DOT MATRIX SCK
 #define MAX_DATA_PIN  11  // DOT MATRIX MOSI
 #define MAX_CS_PIN    10  // DOT MATRIX SS
